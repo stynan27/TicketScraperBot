@@ -1,0 +1,4 @@
+playwright
+pytest
+python-dotenv
+schedule>=1.2.0
