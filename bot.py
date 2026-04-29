@@ -134,7 +134,6 @@ def run_check_wrapper():
 def schedule_periodic_checks():
     """
     Main scheduler loop that runs check_for_text() periodically with jitter.
-    Each interval is randomized between 50-70 minutes for true variance.
     Gracefully handles shutdown via SIGINT/SIGTERM.
     """
     is_checking = False
