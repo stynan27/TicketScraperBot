@@ -1,6 +1,6 @@
 # TicketScraperBot
 
-A basic Python bot to navigate to a URL and search for specific text.
+A basic Python bot to navigate to a URL and search for specific text periodically (17-23 minutes for variance).
 
 ## Setup
 
